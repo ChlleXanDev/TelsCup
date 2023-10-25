@@ -160,7 +160,7 @@ p {
           <div class="fb"><i class="fab fa-facebook"></i>  Facebook</div>
         </div> -->
 
-        <p>Belum punya akun? <a href="signup.html">Sign Up</a></p>
+        <p>Belum punya akun? <a href="signup.php">Sign Up</a></p>
     </form>
 </body>
 </html>
